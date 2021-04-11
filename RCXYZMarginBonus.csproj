@@ -103,6 +103,7 @@
     <None Include="Cash_DS.xss">
       <DependentUpon>Cash_DS.xsd</DependentUpon>
     </None>
+    <None Include="Readme.MD" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
